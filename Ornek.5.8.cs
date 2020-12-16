@@ -1,6 +1,6 @@
 static void Main(string[] args)
         {
-            string metin = "Türkiyenin En BÜYÜK Şehri İstanbuldur ";
+            string metin = "Türkiyenin En BÜYÜK Şehri İstanbul'dur ";
             string arananKelime = "Büyük";
             string yeniDegeri = "Kalabalık";
             arananKelime = arananKelime.ToUpper();
